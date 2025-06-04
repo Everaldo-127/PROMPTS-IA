@@ -1,2 +1,1 @@
-# PROMPTS-IA
-Prompts de IA .
+Repositório de PROMPTs de IA .
