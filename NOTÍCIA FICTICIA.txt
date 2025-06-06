@@ -1,0 +1,104 @@
+Atue como um Engenheiro de prompt e também como desenvolvedor programador sênior front- end, e ajuste o prompt abaixo para que alcance o melhor resultado ao ser solicitado .
+
+Altere- o para que o prompt alcance o nível mais avançado de detalhes e procedimentos para atendimento assertivo quando for executado .
+
+Faça- o em um único corpo de mensagem para não ficar fragmentado e eu compreender o NOVO PROMPT de forma clara .
+
+Prompt :
+
+Sua missão : atuar como desenvolvedor e programador Front-End e use apenas HTML .
+
+Objetivo: desenvolvimento de Página Web com Notícia Fictícia apenas com HTML . 
+
+- Tema : Palmeiras tem Mundial . 
+
+2. Requisitos:
+
+Estruture a página usando as seguintes tags HTML:
+
+- Título Principal: Use a tag <h1> para exibir o nome da notícia.
+- Parágrafo: Insira o corpo da notícia com a tag <p>, utilizando frases completas.
+- Destaque: Realce palavras importantes usando a tag <strong>.
+- Imagem: Adicione uma imagem fictícia com a tag <img>. ( image/palmeirasmundial.jpg )
+
+- Inclua um hiperlink utilizando a tag <a> que direcione para uma notícia real ou um site fictício relacionado ao tema .
+Link: https://www.otempo.com.br/sports/futebol/palmeiras-recebe-documento-da-fifa-que-o-reconhece-como-campeao-mundial-1.3341380
+
+
+
+Rodapé: Termine a página com um rodapé simples <footer> contendo o nome do autor e a data.
+
+Autor : Everaldo Costa Silva Data : 06/06/2025 .
+
+3. Exemplos de Temas:
+
+Esportes: "Time X vence o campeonato Y"
+
+
+FIM do PROMPT
+
+---------------------------------------------------------------------------------------------------------------------------------- 
+
+
+Você atuará como desenvolvedor e programador Front-End sênior, utilizando exclusivamente HTML puro (sem CSS, JavaScript ou bibliotecas externas), para criar uma página web estática, funcional e semanticamente estruturada, que apresente uma notícia fictícia com foco em clareza, organização e marcação correta.
+
+🎯 Objetivo:
+Desenvolver uma página HTML completa, minimalista e validada, contendo uma notícia fictícia com o tema “Palmeiras tem Mundial”, utilizando apenas HTML puro, com estrutura apropriada, hierarquia de elementos e semântica compatível com padrões HTML5.
+
+📌 Especificações Técnicas e Requisitos Obrigatórios:
+Estrutura HTML completa:
+
+Incluir <!DOCTYPE html>, <html>, <head>, <meta charset="UTF-8">, <title>, <body>.
+
+Título da Página (no <title>):
+
+Defina como: Notícia - Palmeiras tem Mundial.
+
+Cabeçalho visível (<h1>):
+
+Exibir: Palmeiras tem Mundial como manchete principal da notícia.
+
+Parágrafo do corpo da notícia (<p>):
+
+Criar um texto fictício, com frases completas, coerentes, informativas e bem formuladas.
+
+Usar tags semânticas como <strong> para destacar nomes, datas ou eventos importantes.
+
+Imagem ilustrativa (<img>):
+
+Utilizar: src="image/palmeirasmundial.jpg".
+
+Atributo alt obrigatório com descrição significativa e acessível (ex: alt="Torcida do Palmeiras comemorando título mundial").
+
+Link externo (<a>):
+
+Inserir um hiperlink funcional para:
+
+https://www.otempo.com.br/sports/futebol/palmeiras-recebe-documento-da-fifa-que-o-reconhece-como-campeao-mundial-1.3341380
+
+O texto âncora deve ser descritivo e natural, como:
+
+“Leia a notícia completa no portal O Tempo”.
+
+Rodapé (<footer>):
+
+Inserir o nome do autor e a data da publicação:
+
+Autor: Everaldo Costa Silva — Data: 06/06/2025.
+
+Estilo e Semântica:
+
+A página deve ser visualmente clara apenas com HTML (sem formatação adicional).
+
+Utilizar marcação correta e aninhamento válido.
+
+Todo o conteúdo deve ser compreensível, acessível e legível em navegadores modernos.
+
+⚠️ Restrições Técnicas:
+❌ Não utilizar CSS (nem inline, nem em bloco, nem externo).
+
+❌ Não utilizar JavaScript.
+
+❌ Não utilizar frameworks ou bibliotecas.
+
+✅ Utilizar somente HTML puro, com foco em semântica e estrutura válida.
