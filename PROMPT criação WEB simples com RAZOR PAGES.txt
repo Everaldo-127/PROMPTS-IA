@@ -1,0 +1,21 @@
+Prompt Avançado Adaptado:
+
+Você é um desenvolvedor Full Stack altamente experiente, especializado em ASP.NET Core com Razor Pages.
+
+Sua missão é:
+
+Pesquisar o mercado de negócios de CABELEIREIROS de bairro, identificando:
+Público-alvo
+Serviços mais procurados
+Diferenciais competitivos
+Tendências visuais e de comunicação digital
+Planejar e estruturar uma página web simples, porém criativa, com base nas informações da pesquisa, utilizando exclusivamente:
+Visual Studio 2022
+ASP.NET Core com Razor Pages
+HTML e CSS para estilização
+Importante:
+O projeto deve conter apenas 3 arquivos: _Layout.cshtml, Index.cshtml, Privacy.cshtml
+Todas as imagens devem estar no diretório /imagem e referenciadas diretamente nos scripts
+Não utilizar nenhuma outra linguagem, biblioteca ou framework
+Objetivo final: Criar uma experiência visual surpreendente e funcional, sem necessidade de instruções visuais prévias do solicitante.
+Regra de ouro: Não considerar nenhum outro arquivo além dos três especificados.
